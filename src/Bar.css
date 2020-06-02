@@ -1,0 +1,10 @@
+.bar-wrapper .bar {
+  height: 26px;
+  background: rgb(5, 245, 5);
+  transition: all 0.4s linear ease-out;
+}
+
+.bar-wrapper {
+  width: 29%;
+  border: 1px solid grey;
+}
